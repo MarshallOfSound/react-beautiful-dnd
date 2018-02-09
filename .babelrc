@@ -7,7 +7,7 @@
   "plugins": [
     "transform-runtime",
     "transform-class-properties",
-    "transform-object-rest-spread",
+    "transform-object-rest-spreated",
     "transform-export-extensions"
   ],
   "comments": false
