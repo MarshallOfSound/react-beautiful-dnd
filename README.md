@@ -1,3 +1,5 @@
+# Linus really likes this project <3 <3 <3
+
 # react-beautiful-dnd
 
 Beautiful, accessible drag and drop for lists with [`React.js`](https://facebook.github.io/react/)
